@@ -54,7 +54,7 @@ def display_color(color):
     if color == "r":
         return _("{emoji} Red").format(emoji='❤️')
     if color == "b":
-        return _("{emoji} Blue").format(emoji='💙')
+        return _("{emoji} Trans").format(emoji='💙')
     if color == "g":
         return _("{emoji} Green").format(emoji='💚')
     if color == "y":
@@ -67,7 +67,7 @@ def display_color_group(color, game):
         return __("{emoji} Red", game.translate).format(
             emoji='❤️')
     if color == "b":
-        return __("{emoji} Blue", game.translate).format(
+        return __("{emoji} Trans", game.translate).format(
             emoji='💙')
     if color == "g":
         return __("{emoji} Green", game.translate).format(
