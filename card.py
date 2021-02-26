@@ -117,8 +117,8 @@ STICKERS = {
     'colorchooser': 'BQADBAAD8wEAAl9XmQABl9rUOPqx4E4C',
     'option_draw': 'BQADBAAD-AIAAl9XmQABxEjEcFM-VHIC',
     'option_pass': 'BQADBAAD-gIAAl9XmQABcEkAAbaZ4SicAg',
-    'option_bluff': 'BQADBAADygIAAl9XmQABJoLfB9ntI2UC',
-    'option_info': 'BQADBAADxAIAAl9XmQABC5v3Z77VLfEC'
+    'option_bluff': 'CAACAgIAAxkBAAMQYDkbOfkyfO-sO1TWM5rY0kiWMbMAAjMMAAJl_clJDP2VAAEVElHQHgQ',
+    'option_info': 'CAACAgIAAxkBAAMPYDkbE5ZLoC2_INgeMgABuSBoMjrgAAJgCgACdsTJSSX8O0SQkraOHgQ'
 }
 
 STICKERS_GREY = {
