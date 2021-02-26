@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,7 +12,7 @@
    viewBox="0 0 241.99999 362"
    id="svg6717"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="draw_four.svg">
   <defs
      id="defs6719" />
@@ -26,20 +24,24 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="56.062211"
-     inkscape:cy="208.21534"
+     inkscape:cx="231.78289"
+     inkscape:cy="167.5929"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g6694"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1029"
-     inkscape:window-x="0"
+     inkscape:window-width="1868"
+     inkscape:window-height="1056"
+     inkscape:window-x="52"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true" />
   <metadata
      id="metadata6722">
     <rdf:RDF>
@@ -48,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,6 +81,11 @@
          height="80"
          width="50" />
       <path
+         id="rect2205"
+         style="fill:#ff5555;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 790,697.36218 h 40 c 1.385,0 2.635,0.5575 3.53875,1.46125 l -47.0775,77.0775 C 785.5575,774.99718 785,773.74718 785,772.36218 v -70 c 0,-2.77 2.23,-5 5,-5 z"
+         sodipodi:nodetypes="ssccsss" />
+      <path
          inkscape:connector-curvature="0"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="path3773-0-4-8-4-60-3-86-5-6"
@@ -87,27 +94,27 @@
          inkscape:connector-curvature="0"
          style="fill:#ffffff;fill-opacity:1;stroke:none"
          id="rect3980-7-6-2-9-5-60-5-3-1-5"
-         d="m 799.9,699.86217 -4.9,10 0,2.50001 6,0 0,2.50001 2.5,0 0,-2.50001 1.5,0 0,-2.50001 -1.5,0 0,-4.99999 -2.5,0 0,4.99999 -3.4,0 4.9,-10 z" />
+         d="m 799.9,699.86217 -4.9,10 v 2.50001 h 6 v 2.50001 h 2.5 v -2.50001 h 1.5 v -2.50001 h -1.5 v -4.99999 H 801 v 4.99999 h -3.4 l 4.9,-10 z" />
       <path
          inkscape:connector-curvature="0"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect5649-4"
-         d="m 788.5,704.86216 0,2.50002 -2.5,0 0,2.49996 2.5,0 0,2.50002 2.5,0 0,-2.50002 2.5,0 0,-2.49996 -2.5,0 0,-2.50002 -2.5,0 z" />
+         d="m 788.5,704.86216 v 2.50002 H 786 v 2.49996 h 2.5 v 2.50002 h 2.5 v -2.50002 h 2.5 v -2.49996 H 791 v -2.50002 z" />
       <path
          inkscape:connector-curvature="0"
          style="fill:#ffffff;fill-opacity:1;stroke:none"
          id="rect3980-7-6-2-9-5-60-5-3-1-8-9"
-         d="m 820.1,774.86219 4.9,-10 0,-2.50001 -6,0 0,-2.50001 -2.5,0 0,2.50001 -1.5,0 0,2.50001 1.5,0 0,4.99999 2.5,0 0,-4.99999 3.4,0 -4.9,10 z" />
+         d="m 820.1,774.86219 4.9,-10 v -2.50001 h -6 v -2.50001 h -2.5 v 2.50001 H 815 v 2.50001 h 1.5 v 4.99999 h 2.5 v -4.99999 h 3.4 l -4.9,10 z" />
       <path
          inkscape:connector-curvature="0"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect5649-1-1"
-         d="m 831.5,769.8622 0,-2.50002 2.5,0 0,-2.49996 -2.5,0 0,-2.50002 -2.5,0 0,2.50002 -2.5,0 0,2.49996 2.5,0 0,2.50002 2.5,0 z" />
+         d="m 831.5,769.8622 v -2.50002 h 2.5 v -2.49996 h -2.5 V 762.3622 H 829 v 2.50002 h -2.5 v 2.49996 h 2.5 v 2.50002 z" />
       <g
          id="g6111-38-2"
          transform="translate(119.99999,429.99998)">
         <rect
-           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.50990587;stroke-miterlimit:4;stroke-dasharray:none"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.509906;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect6095-2-9"
            transform="matrix(1,0,-0.27472185,0.96152374,0,0)"
            y="306.66135"
@@ -131,7 +138,7 @@
          id="g6111-62-2-1"
          transform="translate(129.99998,422.49998)">
         <rect
-           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.50990587;stroke-miterlimit:4;stroke-dasharray:none"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.509906;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect6095-14-0-3"
            transform="matrix(1,0,-0.27472185,0.96152374,0,0)"
            y="306.66135"
@@ -155,7 +162,7 @@
          id="g6111-3-5"
          transform="translate(127.49999,437.49998)">
         <rect
-           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.50990587;stroke-miterlimit:4;stroke-dasharray:none"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.509906;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect6095-0-3"
            transform="matrix(1,0,-0.27472185,0.96152374,0,0)"
            y="306.66135"
@@ -179,7 +186,7 @@
          id="g6111-62-7-3"
          transform="translate(137.49998,429.99999)">
         <rect
-           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.50990587;stroke-miterlimit:4;stroke-dasharray:none"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.509906;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect6095-14-8-2"
            transform="matrix(1,0,-0.27472185,0.96152374,0,0)"
            y="306.66135"

@@ -23,7 +23,7 @@ RED = 'r'
 BLUE = 'b'
 GREEN = 'g'
 YELLOW = 'y'
-BLACK = 'x'
+COMMUNIST = 'x'
 
 COLORS = (RED, BLUE, GREEN, YELLOW)
 
@@ -32,7 +32,7 @@ COLOR_ICONS = {
     BLUE: '💙',
     GREEN: '💚',
     YELLOW: '💛',
-    BLACK: '⬛️'
+    COMMUNIST: '⬛️'
 }
 
 # Values
@@ -113,8 +113,8 @@ STICKERS = {
     'y_draw': 'BQADBAADPwIAAl9XmQABaPYK8oYg84cC',
     'y_skip': 'BQADBAADQwIAAl9XmQABO_AZKtxY6IMC',
     'y_reverse': 'BQADBAADQQIAAl9XmQABZdQFahGG6UQC',
-    'draw_four': 'BQADBAAD9QEAAl9XmQABVlkSNfhn76cC',
-    'colorchooser': 'BQADBAAD8wEAAl9XmQABl9rUOPqx4E4C',
+    'draw_four': 'CAACAgIAAxkBAAMTYDkd3nU21e1Z-FMCYi81pnZZiGEAAvEKAALM_slJxv9H6mnvCcceBA',
+    'colorchooser': 'CAACAgIAAxkBAAMUYDkd8Z8f49f6ArFe3jVmN882ELAAAigNAAIOsshJv4gsBlPTLjseBA',
     'option_draw': 'BQADBAAD-AIAAl9XmQABxEjEcFM-VHIC',
     'option_pass': 'BQADBAAD-gIAAl9XmQABcEkAAbaZ4SicAg',
     'option_bluff': 'CAACAgIAAxkBAAMQYDkbOfkyfO-sO1TWM5rY0kiWMbMAAjMMAAJl_clJDP2VAAEVElHQHgQ',
@@ -174,8 +174,8 @@ STICKERS_GREY = {
     'y_draw': 'BQADBAADqwIAAl9XmQABMt-2zW0VYb4C',
     'y_skip': 'BQADBAADrwIAAl9XmQABIDf-_TuuxtEC',
     'y_reverse': 'BQADBAADrQIAAl9XmQABm9M0Zh-_UwkC',
-    'draw_four': 'BQADBAADYQIAAl9XmQAB_HWlvZIscDEC',
-    'colorchooser': 'BQADBAADXwIAAl9XmQABY_ksDdMex-wC'
+    'draw_four': 'CAACAgIAAxkBAAMRYDkdgQmuhHhmUC_kuMcv7CdMiaMAApgKAAIQDshJYaBPy9C4MWIeBA',
+    'colorchooser': 'CAACAgIAAxkBAAMSYDkdp7KEYjf17u9XLS_0YH6Ldt8AAmULAAKxxMhJFJdyeSDwWyQeBA'
 }
 
 
@@ -196,7 +196,7 @@ class Card(object):
     def __repr__(self):
         if self.special:
             return '%s%s%s' % (COLOR_ICONS.get(self.color, ''),
-                               COLOR_ICONS[BLACK],
+                               COLOR_ICONS[COMMUNIST],
                                ' '.join([s.capitalize()
                                          for s in self.special.split('_')]))
         else:
