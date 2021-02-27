@@ -52,7 +52,7 @@ def display_name(user):
 def display_color(color):
     """ Convert a color code to actual color name """
     if color == "r":
-        return _("{emoji} Red").format(emoji='❤️')
+        return _("{emoji} Rainbow").format(emoji='🏳️‍🌈')
     if color == "b":
         return _("{emoji} Trans").format(emoji='💙')
     if color == "g":
@@ -64,8 +64,8 @@ def display_color(color):
 def display_color_group(color, game):
     """ Convert a color code to actual color name """
     if color == "r":
-        return __("{emoji} Red", game.translate).format(
-            emoji='❤️')
+        return __("{emoji} Rainbow", game.translate).format(
+            emoji='🏳️‍🌈')
     if color == "b":
         return __("{emoji} Trans", game.translate).format(
             emoji='💙')
