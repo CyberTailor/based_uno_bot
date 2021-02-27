@@ -58,7 +58,7 @@ def display_color(color):
     if color == "g":
         return _("{emoji} Enby").format(emoji='💜')
     if color == "y":
-        return _("{emoji} Yellow").format(emoji='💛')
+        return _("{emoji} Pan").format(emoji='💛')
 
 
 def display_color_group(color, game):
@@ -73,7 +73,7 @@ def display_color_group(color, game):
         return __("{emoji} Enby", game.translate).format(
             emoji='💜')
     if color == "y":
-        return __("{emoji} Yellow", game.translate).format(
+        return __("{emoji} Pan", game.translate).format(
             emoji='💛')
   
 
