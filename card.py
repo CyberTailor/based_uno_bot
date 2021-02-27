@@ -19,16 +19,16 @@
 
 
 # Colors
-RED = 'r'
+RAINBOW = 'r'
 TRANS = 'b'
 ENBY = 'g'
 YELLOW = 'y'
 COMMUNIST = 'x'
 
-COLORS = (RED, TRANS, ENBY, YELLOW)
+COLORS = (RAINBOW, TRANS, ENBY, YELLOW)
 
 COLOR_ICONS = {
-    RED: '❤️',
+    RAINBOW: '🏳️‍🌈',
     TRANS: '💙',
     ENBY: '💜',
     YELLOW: '💛',
