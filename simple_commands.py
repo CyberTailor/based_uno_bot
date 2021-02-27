@@ -34,8 +34,8 @@ def help_handler(bot, update):
       " running game with /join\n"
       "3. After at least two players have joined, start the game with"
       " /start\n"
-      "4. Type <code>@unobot</code> into your chat box and hit "
-      "<b>space</b>, or click the <code>via @unobot</code> text "
+      "4. Type <code>@unleftbot</code> into your chat box and hit "
+      "<b>space</b>, or click the <code>via @unleftbot</code> text "
       "next to messages. You will see your cards (some greyed out), "
       "any extra options like drawing, and a <b>?</b> to see the "
       "current game state. The <b>greyed out cards</b> are those you "
@@ -51,16 +51,14 @@ def help_handler(bot, update):
       "/open - Open lobby\n"
       "/kill - Terminate the game\n"
       "/kick - Select a player to kick "
-      "by replying to him or her\n"
+      "by replying to them\n"
       "/enable_translations - Translate relevant texts into all "
       "languages spoken in a game\n"
       "/disable_translations - Use English for those texts\n\n"
       "<b>Experimental:</b> Play in multiple groups at the same time. "
       "Press the <code>Current game: ...</code> button and select the "
       "group you want to play a card in.\n"
-      "If you enjoy this bot, "
-      "<a href=\"https://telegram.me/storebot?start=mau_mau_bot\">"
-      "rate me</a>, join the "
+      "If you enjoy this bot, join the upstream"
       "<a href=\"https://telegram.me/unobotupdates\">update channel</a>"
       " and buy an UNO card game.")
 
@@ -84,8 +82,7 @@ def modes(bot, update):
 def source(bot, update):
     """Handler for the /help command"""
     source_text = _("This bot is Free Software and licensed under the AGPL. "
-      "The code is available here: \n"
-      "https://github.com/jh0ker/mau_mau_bot")
+      "The code is available here:") + "\nhttps://git.sysrq.cyou/based_uno_bot"
     attributions = _("Attributions:\n"
       'Draw icon by '
       '<a href="http://www.faithtoken.com/">Faithtoken</a>\n'
